@@ -19,3 +19,7 @@ The projects were implemented for various retail shops in a shopping mall around
 * 0.25% of total customers falls under Gold Member Tier they contribute 9.2% of Total Transaction and 9.3% of Total Amount Revenue
 
 * 0.18% of total customers falls under Platinum Member Tier they contribute 7.7% of Total Transaction and 18.3% of Total Amount Revenue
+
+
+## Conclusion 
+The main aim to predict the next day pruchase of the customer and using RFM model we can achive.
